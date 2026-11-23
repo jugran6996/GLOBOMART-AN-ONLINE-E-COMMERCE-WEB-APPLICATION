@@ -1,18 +1,4 @@
-# Lost & Found Campus Portal
-
-A full-stack college Lost & Found web portal for reporting found items, browsing available items, submitting claims, and managing returns.
-
-## Features
-
-- Browse and search reported lost and found items
-- Post found items as a student or faculty custodian
-- Submit and track item claims
-- Faculty claim review and approval workflow
-- Return and archive items
-- Image uploads for found items
-- Role-based authentication with student and faculty accounts
-- Light and dark themes
-- Responsive campus-focused interface
+GLOBOMART-AN-ONLINE-E-COMMERCE-WEB-APPLICATION
 
 ## Technology
 
